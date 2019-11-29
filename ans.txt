@@ -1,0 +1,8 @@
+$ python3 MM1.py  -n 100000
+1. Arrival rate :  0.19980444274821993
+2. Service rate :  0.49846467790684995
+3. Utiliztion :  0.4008386929086519
+4. Average # of customers in line :  0.2727121966229163
+5. Average # of customers in system :  0.673624500740273
+6. Average in line :  1.3656399407223787
+7. Average in system :  3.371800144890078
